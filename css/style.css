@@ -9792,7 +9792,7 @@ Section Title
 ***/
 .team-section-two {
   position: relative;
-  padding: 120px 0 80px;
+  padding: 120px 0 10px;
   overflow: hidden;
 }
 .team-section-two::before {
